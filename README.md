@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Javascript Racing Game**
 
-- 🌱 I’m currently learning **Python , Node and Express Js**
+- 🌱 I’m currently learning **Python , Node and Express Js, Vue NUXT js**
 
 - 💬 Ask me about **CSS, JavaScript**
 
