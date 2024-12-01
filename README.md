@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ayush Deb</h1>
-<h3 align="center">A passionate frontend developer from India Currently Working With Javascript and Making tons of projects</h3>
+<h3 align="center">A passionate frontend developer from India working at State Street Bangalore,  Currently Working With MERN Stack for Development </h3>
 
-- 🔭 I’m currently working on **Vue js and Blockchain**
+- 🔭 I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning **Solidity , Vue Js**
+- 🌱 I’m currently learning **Large Language Models**
 
-- 👯 I’m looking to collaborate on **Ethereum Projects**
+- 👯 I’m looking to collaborate on **Full Stack AI based - Web ,App Projects**
 
-- 🤝 I’m looking for help with **Vue js**
-
-- 💬 Ask me about **CSS, JavaScript , Python , Vue, Solidity**
+- 💬 Ask me about **CSS, JavaScript , Python , React, MongoDB , Flutter, Node.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
